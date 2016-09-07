@@ -1,0 +1,2 @@
+# MobiiliOhjelmointiTehtava
+Mobiiliohjelmointikurssin palautettavan tehtävän VS-projekti
